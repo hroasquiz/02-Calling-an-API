@@ -1,0 +1,5 @@
+{
+  "domain": "dev-harold.au.auth0.com",
+  "clientId": "zO8zeOJ1ozNu7onEs2j9aPKQLMZEU3n3",
+  "audience": "https://auth0-02-calling-an-api.herokuapp.com/v1/orders"
+}
